@@ -3,6 +3,7 @@
     "name": "airia-mobile-v3",
     "slug": "airia-mobile-v3",
     "version": "1.0.0",
+    "main": "expo-router/entry",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
